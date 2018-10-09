@@ -1,4 +1,7 @@
 # Stickey-Header-for-RecyclerView-android-Kotlin
-Sticky Header For RecyclerView android using kotlin
 
-Stickey Header for recycler list view in android 
+Stickey Header for recycler list view in android
+ 
+With reference to https://medium.com/@saber.solooki/sticky-header-for-recyclerview-c0eb551c3f68
+
+# Happy Coding
